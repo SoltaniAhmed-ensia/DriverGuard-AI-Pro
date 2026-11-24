@@ -1,0 +1,12 @@
+# Python 3.10 or 3.11 recommended (3.12 works too)
+opencv-python
+mediapipe==0.10.14
+numpy<2
+pygame
+pillow
+arabic-reshaper
+python-bidi
+matplotlib
+pandas
+streamlit
+python -m pip install ultralytics pyttsx3 --timeout 300 --retries 10    -> spoken warnings            (python main.py --voice)
